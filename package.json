@@ -2,6 +2,7 @@
   "name": "hunter-pizzeria",
   "version": "1.0.0",
   "description": "A simple react/node product as a task for internship selection process",
+  "repository": "git@github.com:rikenmehta03/hunter-pizzeria.git",
   "main": "index.js",
   "author": "Riken Mehta",
   "license": "MIT",
